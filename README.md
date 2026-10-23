@@ -3,6 +3,7 @@
 An interactive R Shiny dashboard showing the reach of school-based youth mental health presentations: how many presentations were delivered, how many students were reached, how many schools were visited, and which topics were covered.
 
 **Live dashboard:** (https://mdeely24.shinyapps.io/gabriels-light-dashboard/)
+<img width="2240" height="1285" alt="dashboard-screenshot" src="https://github.com/user-attachments/assets/970b9ea6-e3ca-4b68-8516-96deceb6094d" />
 
 
 
